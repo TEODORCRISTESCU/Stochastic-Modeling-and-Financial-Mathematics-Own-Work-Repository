@@ -1,0 +1,3 @@
+Problem 1: 10/12 [treated period interest rate $r_p$ as an annual rate by scaling it with $dt = T/n$ instead of using $1 + r_p$ directly for period growth and discounting]
+Problem 2: 5/5
+Problem 3: 3/3   Total: 18/20
